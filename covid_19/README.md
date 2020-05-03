@@ -20,5 +20,5 @@ There are 4 endpoints:
   4)/api/data/{id}
   - this endpoint helps in getting a partiicular record(GET_BY_ID).
 -------------------------------------------------------------------------------------------------------------------------------------
-PLEASE NOTE: In order to execute Eureka naming server, Zuul gateway, Ribbon, make sure you all the services are UP and the ports are running successfully.
+PLEASE NOTE: In order to execute Eureka naming server, Zuul gateway, Ribbon, make sure all the services are UP and the ports are running successfully.
 -------------------------------------------------------------------------------------------------------------------------------------
